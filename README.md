@@ -2,7 +2,7 @@
 ####  Web Developer & Project Manager
 ![ Web Developer & Project Manager]( )
 
-Hello, this is SM Feroj, a versatile web developer & entrepreneur with over 3 years of experience in creating web content. My interest lies on related frameworks and libraries focusing on React, Next and Laravel. I have successfully completed 10+ projects and currently manage 5+ ongoing projects. My focus is on creating exceptional user experiences, and always ready to take on new challenges and establish myself as a successful entrepreneur in IT sector.
+Hello, this is SM Feroj, a web developer & project manager with over 3+ years of experience in creating web content. My interest lies on related frameworks and libraries focusing on React, Vue and Laravel. I have completed 10 projects and currently manage 5+ ongoing projects. My focus is on creating exceptional user experiences, and always ready to take on new challenges and establish myself as a successful web developer in the IT sector.
 
 Skills: Javascript, React, Next, Php, Laravel, MongoDB, Mysql
 
