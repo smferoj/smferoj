@@ -7,7 +7,7 @@ Hello, this is SM Feroj, a versatile web developer & entrepreneur with over 3 ye
 Skills: Javascript, React, Next, Php, Laravel, MongoDB, Mysql
 
 - 🔭 I’m currently working on Full-stack web developer ane co-ordinator at prismtechbd, a start up IT farm. 
-- 🌱 I’m currently learning Next Js & Laravel 
+- 🌱 I’m currently manage projects with Laravel, Vue & Inertia stack (VLI stack) 
 - 👯 I’m looking to collaborate on web development & project management 
 - 📫 How to reach me: website, email, whatsapp, phone 
 
