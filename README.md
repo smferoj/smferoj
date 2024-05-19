@@ -4,7 +4,7 @@
 
 Hello, this is SM Feroj, a web developer & project manager with over 3+ years of experience in creating web content. My interest lies on related frameworks and libraries focusing on React, Vue and Laravel. I have completed 10 projects and currently manage 5+ ongoing projects. My focus is on creating exceptional user experiences, and always ready to take on new challenges and establish myself as a successful web developer in the IT sector.
 
-Skills: Javascript, React, Next, Php, Laravel, MongoDB, Mysql
+Skills: Javascript, React, Vue, Php, Laravel, Mysql
 
 - 🔭 I’m currently working on Full-stack web developer ane co-ordinator at prismtechbd, a start up IT farm. 
 - 🌱 I’m currently manage projects with Laravel, Vue & Inertia stack (VLI stack) 
