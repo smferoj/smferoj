@@ -1,6 +1,6 @@
 ## Hello, This is SM Feroj
 ####  Web Developer & Team Organizer
-![ Web Developer & Project Manager]( )
+![ Web Developer & Team Organizer]( )
 
 Hello, this is SM Feroj, a web developer & team organizer with over 6+ years of experience in creating web content. My interest lies on related frameworks and libraries focusing on React, Vue and Laravel. I have completed 15 projects and currently manage 5+ ongoing projects. My focus is on creating exceptional user experiences, and always ready to take on new challenges and establish myself as a successful web developer in the IT sector.
 
