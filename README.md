@@ -1,15 +1,15 @@
 ## Hello, This is SM Feroj
-####  Web Developer & Project Manager
+####  Web Developer & Team Organizer
 ![ Web Developer & Project Manager]( )
 
-Hello, this is SM Feroj, a web developer & project manager with over 3+ years of experience in creating web content. My interest lies on related frameworks and libraries focusing on React, Vue and Laravel. I have completed 10 projects and currently manage 5+ ongoing projects. My focus is on creating exceptional user experiences, and always ready to take on new challenges and establish myself as a successful web developer in the IT sector.
+Hello, this is SM Feroj, a web developer & team organizer with over 6+ years of experience in creating web content. My interest lies on related frameworks and libraries focusing on React, Vue and Laravel. I have completed 15 projects and currently manage 5+ ongoing projects. My focus is on creating exceptional user experiences, and always ready to take on new challenges and establish myself as a successful web developer in the IT sector.
 
 Skills: Javascript, React, Vue, Php, Laravel, Mysql
 
-- 🔭 I’m currently working on Full-stack web developer ane co-ordinator at prismtechbd, a start up IT farm. 
-- 🌱 I’m currently manage projects with Laravel, Vue & Inertia stack (VLI stack) 
+- 🔭 I’m currently working as a Full-stack web developer and co-ordinator at Prismtechbd, a start-up IT farm. 
+- 🌱 I currently manage projects with Laravel, Vue & Inertia stack (VLI stack) 
 - 👯 I’m looking to collaborate on web development & project management 
-- 📫 How to reach me: website, email, whatsapp, phone 
+- 📫 How to reach me: website, email, WhatsApp, phone 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smferoj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sm-feroj-94b300249//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.smferoj.com)  
